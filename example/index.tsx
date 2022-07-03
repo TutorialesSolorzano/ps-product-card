@@ -1,11 +1,11 @@
 import 'react-app-polyfill/ie11';
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import {ProductCard, ProductImage, ProductTitle, ProductButtoms } from '../.';
+import {ProductCard,ProductImage, ProductTitle, ProductButtoms } from '../.';
 
 const product = {
   id: '1',
-  title: 'Coffee Mug - Card',
+  title: 'Coffee Mug - Card!',
  // img: './coffee-mug.png'
 }
 
